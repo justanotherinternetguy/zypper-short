@@ -3,4 +3,5 @@ An oh-my-zsh plugin for Opensuse's `zypper` package manager
 
 
 # installation
-- cmon now, if you've made it this far into the depths of omz you probably know how to install at this point.
+- `git clone` this repo inside of `~/.oh-my-zsh/custom/plugins`
+- go to `~/.zshrc` and add the line: `source ~/.oh-my-zsh/custom/plugins/zypper-short/zypper-short.plugin.zsh`
