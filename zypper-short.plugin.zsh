@@ -1,5 +1,6 @@
 alias zin='sudo zypper in'
 alias zref='sudo zypper ref'
+alias zs='zypper se'
 alias zse='zypper se -s'
 alias zif='zypper if'
 alias zwp='zypper wp'
@@ -14,3 +15,4 @@ alias zlp='zypper patches'
 alias zcp='zypper pchk'
 alias zlu='zypper lu'
 alias zuu='sudo zypper up'
+alias zup="sudo zypper dup"
